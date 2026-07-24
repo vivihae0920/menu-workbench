@@ -1,0 +1,12 @@
+{
+  "name": "menu-workbench",
+  "version": "1.0.0",
+  "description": "移动端菜单工作台 - 共享版",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
